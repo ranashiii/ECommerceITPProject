@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../ECommOrderManagementAppService/ECommOrderManagementAppService.csproj" Id="8b8db3ff-2895-4e19-9db8-b34994fa36e0" />
+  <Project Path="../ECommOrderManagementData/ECommOrderManagementData.csproj" Id="86b55038-cc95-435c-bb05-68f4786d8c38" />
+  <Project Path="../ECommOrderManagementDataAppService/ECommOrderManagementDataAppService.csproj" Id="6092bcdb-e367-492e-bca8-e915dabc909a" />
   <Project Path="ECommerceITPProject.csproj" />
 </Solution>
